@@ -1,3 +1,5 @@
+//THIS MIDDLEWIRE IS NOT REQUIRED FOR NOW ,THIS MIDDLEWARE DOES NOT HOLD ANY SIGNIFICATNCE AS ALREADY IT IS USED IN auth.js
+
 import express from "express"
 import bcrypt from "bcryptjs"
 import jwt from "jsonwebtoken"
